@@ -4,7 +4,7 @@
     display: flex;
     justify-content: center;
     flex-direction: row;
-    margin: 10px auto;
+    /* margin: 10px auto; */
     align-items: center;
     border-bottom: 5px solid white;
 }
@@ -12,7 +12,7 @@
 #three{
     /* background-color: azure; */
     width: 99.5%;
-    height: 150px;
+    height: 220px;
     display: flex; 
     flex-direction: row;
     margin: auto;
@@ -23,10 +23,10 @@
 #four{
     /* background-color: azure; */
     width: 99.5%;
-    height: 220px;
+    height: 700px;
     display: flex; 
     flex-direction: row;
-    margin: 30px auto;
+    /* margin: 30px auto; */
     align-items: center;
     border-bottom: 5px solid white;
     
@@ -74,3 +74,6 @@ p {
     height: 135px;
     width: 135px;
 }
+
+/* form {
+} */
